@@ -15,3 +15,4 @@ Ta2O5, tantalum pentoxide:
     Nanocrystalline film: Bright et al, 2013: 1.52 - 1000 (cut off at 40)
 TiO2, titanium oxide: Siefke et al, 2016, 0.120 - 125 (only took 0.2 - 40)
 ZnO, zinc oxide (pellet): Querry, 1985, 0.21 - 55.6
+TiN, titanium nitride: J. Pflüger et al. 1984, 0.031 - 2.48 
